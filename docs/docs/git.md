@@ -7,4 +7,4 @@ entre no site do git https://git-scm.com/downloads faça download e depois insta
 depois de instalar, use os comandos git init para iniciar o projeto
 
  # Area de trabalho, area de preparação e repositórios no Git
- No Git trabalhamos com etapas de projeto. A etapa inicial é o que alteramos no nosso computador sem controle de versão que é a area de trabalho.
+ No Git trabalhamos com etapas de projeto. A etapa inicial é o que alteramos no nosso computador sem controle de versão que é a area de trabalho..

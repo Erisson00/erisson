@@ -12,4 +12,4 @@ Boas praticas do desenvolvimento do projeto
 
 # Como utilizar o projeto
 
-utilize esse projeto como referencia para criar seus projetos que necessitam de versionamentos rs
+utilize esse projeto como referencia para criar seus projetos que necessitam de versionamentos rss
